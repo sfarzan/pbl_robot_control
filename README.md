@@ -6,7 +6,7 @@ This is the accompanying git repository for our paper: <br>
 [Siavash Farzan](https://sfarzan.com/)<br>
 2023 ASEE Annual Conference & Exposition, American Society for Engineering Education, Jun. 2023
 
-[[arXiv]()] [[bibtex](https://sfarzan.com/data/sfarzan-asee2023.bib)]
+[[arXiv](https://arxiv.org/abs/2305.11279)] [[bibtex](https://sfarzan.com/data/sfarzan-asee2023.bib)]
 
 
 ## Example Demos
